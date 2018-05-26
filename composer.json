@@ -1,0 +1,12 @@
+{
+    "name": "dwihardiani/uasweb",
+    "authors": [
+        { 
+            "name": "dwihardiani",
+            "email": "dintadwihardiani@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    }
+}
